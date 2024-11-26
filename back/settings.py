@@ -17,7 +17,7 @@ SECRET_KEY = os.getenv('secretkey','DJANGO_SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bittler-back.onrender.com', '127.0.0.1']
+ALLOWED_HOSTS = ['3.25.58.14', '127.0.0.1']
 
 OPENAI_SECRET_KEY = os.getenv('OPENAI_SECRET_KEY')
 
