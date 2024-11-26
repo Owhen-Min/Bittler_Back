@@ -19,7 +19,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['https://bittler-back.onrender.com', '127.0.0.1']
 
-OPENAI_SECRET_KEY = config('OPENAI_SECRET_KEY')
+OPENAI_SECRET_KEY = os.getenv('OPENAI_SECRET_KEY')
 
 
 # Application definition
