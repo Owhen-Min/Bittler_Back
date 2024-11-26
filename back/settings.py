@@ -12,12 +12,12 @@ secret = os.path.join(BASE_DIR, 'secret.json')
 
 def load_secrets():
     try:
-        with open(SECRET_FILE) as f:
+        with open(secret) as f:
             return json.load(f)
     except FileNotFoundError:
-        raise ImproperlyConfigured(f"Secret file not found at {SECRET_FILE}")
+        raise ImproperlyConfigured(f"Secret file not found at {secret}")
     except json.JSONDecodeError:
-        raise ImproperlyConfigured(f"Invalid JSON in secret file at {SECRET_FILE}")
+        raise ImproperlyConfigured(f"Invalid JSON in secret file at {secret}")
 
 secrets = load_secrets()
 
