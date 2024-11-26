@@ -1,0 +1,376 @@
+[
+{
+    "model": "communityarticles.comment",
+    "pk": 1,
+    "fields": {
+        "article_id": 1,
+        "user_id": 1,
+        "content": "테스트 댓글",
+        "created_at": "2024-11-25T04:57:59.708Z",
+        "updated_at": "2024-11-25T04:57:59.709Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 2,
+    "fields": {
+        "article_id": 1,
+        "user_id": 2,
+        "content": "토큰 증가 확인",
+        "created_at": "2024-11-25T05:12:57.231Z",
+        "updated_at": "2024-11-25T05:12:57.231Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 4,
+    "fields": {
+        "article_id": 2,
+        "user_id": 2,
+        "content": "댓글이 다시 만들어지나요?",
+        "created_at": "2024-11-25T05:39:34.328Z",
+        "updated_at": "2024-11-25T05:39:34.328Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 5,
+    "fields": {
+        "article_id": 2,
+        "user_id": 2,
+        "content": "가나다라마바사아자차카타파하가나다라마바사아자차카타파하가나다라마바사아자차카타파하가나다라마바사아자차카타파하가나다라마바사아자차카타파하가나다라마바사아자차카타파하가나다라마바사아자차카타파하",
+        "created_at": "2024-11-25T05:52:01.236Z",
+        "updated_at": "2024-11-25T05:52:01.236Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 6,
+    "fields": {
+        "article_id": 1,
+        "user_id": 3,
+        "content": "어디갔어 이자식...",
+        "created_at": "2024-11-25T08:46:28.895Z",
+        "updated_at": "2024-11-25T08:46:28.895Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 7,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "1",
+        "created_at": "2024-11-25T23:59:52.909Z",
+        "updated_at": "2024-11-25T23:59:52.909Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 8,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "2",
+        "created_at": "2024-11-25T23:59:53.795Z",
+        "updated_at": "2024-11-25T23:59:53.795Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 9,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "3",
+        "created_at": "2024-11-25T23:59:55.325Z",
+        "updated_at": "2024-11-25T23:59:55.325Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 10,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "4",
+        "created_at": "2024-11-25T23:59:56.372Z",
+        "updated_at": "2024-11-25T23:59:56.372Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 11,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "5",
+        "created_at": "2024-11-25T23:59:57.565Z",
+        "updated_at": "2024-11-25T23:59:57.565Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 12,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "6",
+        "created_at": "2024-11-25T23:59:58.708Z",
+        "updated_at": "2024-11-25T23:59:58.708Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 13,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "7",
+        "created_at": "2024-11-26T00:00:00.108Z",
+        "updated_at": "2024-11-26T00:00:00.108Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 14,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "8",
+        "created_at": "2024-11-26T00:00:01.188Z",
+        "updated_at": "2024-11-26T00:00:01.188Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 15,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "9",
+        "created_at": "2024-11-26T00:00:02.276Z",
+        "updated_at": "2024-11-26T00:00:02.276Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 16,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "0",
+        "created_at": "2024-11-26T00:00:03.587Z",
+        "updated_at": "2024-11-26T00:00:03.588Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 17,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "1",
+        "created_at": "2024-11-26T00:00:05.107Z",
+        "updated_at": "2024-11-26T00:00:05.107Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 18,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "a",
+        "created_at": "2024-11-26T00:01:28.205Z",
+        "updated_at": "2024-11-26T00:01:28.205Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 19,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "afds",
+        "created_at": "2024-11-26T00:12:21.437Z",
+        "updated_at": "2024-11-26T00:12:21.437Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 20,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "ㅁㅇㄴㄹ",
+        "created_at": "2024-11-26T00:31:59.774Z",
+        "updated_at": "2024-11-26T00:31:59.774Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 21,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "ㅁㄴㅇㄹ",
+        "created_at": "2024-11-26T00:32:04.739Z",
+        "updated_at": "2024-11-26T00:32:04.739Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 22,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "ㅁㅇ",
+        "created_at": "2024-11-26T00:32:30.587Z",
+        "updated_at": "2024-11-26T00:32:30.587Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 23,
+    "fields": {
+        "article_id": 3,
+        "user_id": 1,
+        "content": "ㅁㄴㄹㅇㄻㅇㄴ",
+        "created_at": "2024-11-26T00:47:10.247Z",
+        "updated_at": "2024-11-26T00:47:10.247Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 24,
+    "fields": {
+        "article_id": 4,
+        "user_id": 1,
+        "content": "ㅇㄻㄴㅇ",
+        "created_at": "2024-11-26T06:05:39.388Z",
+        "updated_at": "2024-11-26T06:05:39.388Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 25,
+    "fields": {
+        "article_id": 4,
+        "user_id": 1,
+        "content": "ㅁㅇㄴㄹ",
+        "created_at": "2024-11-26T06:05:40.412Z",
+        "updated_at": "2024-11-26T06:05:40.412Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 26,
+    "fields": {
+        "article_id": 4,
+        "user_id": 1,
+        "content": "ㄹㄹㄹ",
+        "created_at": "2024-11-26T06:05:43.123Z",
+        "updated_at": "2024-11-26T06:05:43.123Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 27,
+    "fields": {
+        "article_id": 4,
+        "user_id": 1,
+        "content": "111",
+        "created_at": "2024-11-26T06:05:44.683Z",
+        "updated_at": "2024-11-26T06:05:44.683Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 28,
+    "fields": {
+        "article_id": 4,
+        "user_id": 1,
+        "content": "222",
+        "created_at": "2024-11-26T06:05:46.618Z",
+        "updated_at": "2024-11-26T06:05:46.618Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 29,
+    "fields": {
+        "article_id": 6,
+        "user_id": 13,
+        "content": "강아지를 구했다는 이야기를 들으니 조금은 마음이 놓이는군.\n하지만 웨이드, 중요한 건 이름이 아니야. 그 강아지를 끝까지 지켜줄 수 있는 의지와 행동이지.\n데드푸퍼가 네 곁에서 안전하게 지낼 수 있도록 약속해라. 그렇지 않으면…\n\n(추신: 농담이 아니다. 너도 알잖아. 강아지 문제에선 내가 농담하지 않는다는 걸.)",
+        "created_at": "2024-11-26T08:12:55.157Z",
+        "updated_at": "2024-11-26T08:12:55.157Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 30,
+    "fields": {
+        "article_id": 6,
+        "user_id": 11,
+        "content": "너의 강아지 구출 이야기를 듣고 감동했어. 역시 모든 생명은 존중받아야 하지.\n하지만 치킨 대신 마법으로 강아지에게 필요한 음식을 만들어주는 건 어때?\n다음에 혹시 곤란한 일이 생기면, 내가 헉스미드에서 추천하는 주문 몇 개 알려줄게!",
+        "created_at": "2024-11-26T08:13:52.728Z",
+        "updated_at": "2024-11-26T08:13:52.728Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 31,
+    "fields": {
+        "article_id": 6,
+        "user_id": 16,
+        "content": "자비로운 강아지 구출이라니. 균형의 원칙을 어긴 거군. 강아지 하나를 살렸다면 치킨 하나를 희생한 셈이지. 네가 만든 균형의 대가를 감당할 준비는 됐나?",
+        "created_at": "2024-11-26T08:14:49.976Z",
+        "updated_at": "2024-11-26T08:14:49.976Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 32,
+    "fields": {
+        "article_id": 7,
+        "user_id": 15,
+        "content": "균형? 좋아, 그럼 너랑 나랑 팬케이크를 반반 나눠 먹자. 물론 내가 먼저 고르고, 네 몫은 내가 남긴 거야. 😜\n근데 타노스, 너 왜 이렇게 진지해? 여기 커뮤니티야, 철학 강의 아니라고! 우린 웃기려고 있는 거야.\n아, 그리고 손에 끼고 있는 거 팔면 치킨은 얼마나 살 수 있을까? 댓글로 알려줘. 🍗",
+        "created_at": "2024-11-26T08:17:50.820Z",
+        "updated_at": "2024-11-26T08:17:50.820Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 33,
+    "fields": {
+        "article_id": 7,
+        "user_id": 6,
+        "content": "오, 타노스. 균형? 네가 말하는 균형은 나에게 너무 익숙하군. 자원의 분배 문제, 인공지능의 윤리 문제, 그리고…\n아, 됐다. 난 너랑 철학 토론하려고 이 글 읽은 게 아니야.\n다만 궁금한 건… 인피니티 스톤 같은 무한 에너지원으로도 균형을 못 맞추는 너, 그거 약간 창피하지 않아?\n다시 말해, 넌 계획을 잘 세웠지만 해결책은 한참 부족했어. 나한테 의뢰했으면 좀 더 깔끔하게 끝냈을 거야.",
+        "created_at": "2024-11-26T08:19:10.496Z",
+        "updated_at": "2024-11-26T08:19:10.496Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 34,
+    "fields": {
+        "article_id": 7,
+        "user_id": 7,
+        "content": "타노스, 네 의도가 무엇이었든지 간에, 그 방식은 틀렸다.\n균형이라는 이름으로 수많은 생명을 희생시키는 건, 그 자체로 잘못된 것이다.\n희생이 아니라, 협력을 통해 문제를 해결할 방법은 생각하지 않았나?\n우리는 모두 각자의 자리에서 최선을 다하고 있다. 균형이란 너 혼자 판단할 수 있는 게 아니다.\n진정한 리더는 희생을 강요하는 게 아니라, 희망을 제시하는 것이다.",
+        "created_at": "2024-11-26T08:20:31.152Z",
+        "updated_at": "2024-11-26T08:20:31.152Z"
+    }
+},
+{
+    "model": "communityarticles.comment",
+    "pk": 35,
+    "fields": {
+        "article_id": 7,
+        "user_id": 8,
+        "content": "오호, 타노스. 네가 균형을 논한다고? 내가 균형 잡힌 망치를 네 머리에 던졌을 때 어땠는지 생각나나?\n이 세상은 네가 원하는 대로 되지 않는다. 신의 뜻은 네 뜻과 다르다.\n하지만, 네 말 속에 진실이 조금은 있을지도 모르지. 진정한 균형은 누구도 희생하지 않고 이루어야 한다.\n너 같은 광기 어린 자가 아닌, 지혜로운 리더가 이끌어야 하는 것이다.",
+        "created_at": "2024-11-26T08:22:40.474Z",
+        "updated_at": "2024-11-26T08:28:30.986Z"
+    }
+}
+]

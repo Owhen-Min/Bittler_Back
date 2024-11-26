@@ -1,0 +1,161 @@
+[
+{
+    "model": "communityarticles.article",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "title": "테스트 제목",
+        "content": "테스트 내용",
+        "created_at": "2024-11-25T04:57:52.666Z",
+        "view": 7,
+        "like_users": [
+            1
+        ]
+    }
+},
+{
+    "model": "communityarticles.article",
+    "pk": 2,
+    "fields": {
+        "user": 2,
+        "title": "토큰 증가 확인용 게시글",
+        "content": "테스트 내용",
+        "created_at": "2024-11-25T05:13:18.874Z",
+        "view": 12,
+        "like_users": []
+    }
+},
+{
+    "model": "communityarticles.article",
+    "pk": 3,
+    "fields": {
+        "user": 3,
+        "title": "아 여기 싫어요기능 만들어주면 안됌?",
+        "content": "싫어요 누르고 싶은데 없어서 못누름",
+        "created_at": "2024-11-25T08:57:19.998Z",
+        "view": 17,
+        "like_users": [
+            3
+        ]
+    }
+},
+{
+    "model": "communityarticles.article",
+    "pk": 4,
+    "fields": {
+        "user": 1,
+        "title": "여기 토큰 버는 방법이 뭐에요?",
+        "content": "나 토큰 벌써 다썼는데 어떻게 충전함?",
+        "created_at": "2024-11-26T05:59:27.507Z",
+        "view": 5,
+        "like_users": []
+    }
+},
+{
+    "model": "communityarticles.article",
+    "pk": 5,
+    "fields": {
+        "user": 14,
+        "title": "내 영화의 대체 결말을 비틀어 봐! (아님 말고)",
+        "content": "안녕, 지구인 여러분!\n웨이드 윌슨, 일명 데드풀입니다. 이번에는 여러분의 창의력을 시험해 보려고 합니다.\n내 영화 시리즈는 전부 완벽했지만(솔직히, 인정하잖아?), 혹시 대체 결말 아이디어가 있으면 여기 공유해 줘.",
+        "created_at": "2024-11-26T08:09:11.996Z",
+        "view": 1,
+        "like_users": []
+    }
+},
+{
+    "model": "communityarticles.article",
+    "pk": 6,
+    "fields": {
+        "user": 15,
+        "title": "드디어 진짜 영웅 됐다... 라고 믿어줘!",
+        "content": "여러분, 대박 소식이 있어. 오늘 아침, 나는 길 잃은 강아지를 구출했어. (진짜로!)\n자세히 말하자면, 그 강아지는 쓰레기통에 들어가 있었고, 나는 치킨을 먹고 있었어. 강아지가 나를 쳐다보길래, 치킨을 나눠줬지.\n그리고 그 녀석, 나를 따라 집까지 왔어.\n\n결론: 난 이제 영웅으로 불릴 자격이 있어. 그 강아지 이름은 이제 \"데드푸퍼.\"\n\n누구든지 반박할 생각하지 마. 반박은 내 총이 상대한다.\n\n웨이드(강아지보다 귀여운 남자)",
+        "created_at": "2024-11-26T08:10:33.706Z",
+        "view": 8,
+        "like_users": [
+            16
+        ]
+    }
+},
+{
+    "model": "communityarticles.article",
+    "pk": 7,
+    "fields": {
+        "user": 16,
+        "title": "균형에 대하여: 우주의 진정한 평화를 논하다",
+        "content": "지구인들이여, 나는 타노스다.\n너희 중 많은 이가 나를 파괴자로 알고 있겠지만, 나는 구원자다.\n혼돈과 탐욕이 만연한 이 우주를 보며 한 가지 결론에 도달했다.\n균형만이 진정한 평화를 가져올 수 있다.\n\n내 여정은 결코 쉽지 않았다. 사람들은 나를 두려워하며 이해하지 못했지만, 내가 행한 모든 것은 우주를 위한 것이었다.\n하지만, 이곳 커뮤니티에 모인 너희들만큼은 묻고 싶다:\n우리가 진정으로 지속 가능한 세상을 만들기 위해 무엇을 해야 하는가?\n\n질문 1. 자원이 제한된 상황에서 어떻게 모든 생명을 공평하게 대할 수 있을까?\n질문 2. 희생과 균형을 이루기 위해 인간은 무엇을 포기해야 할까?\n질문 3. 만약 너희가 내 입장이었다면, 어떤 선택을 했을까?\n\n너희의 의견을 듣고 싶다. 단, 나를 비난하려는 댓글은 스톤의 힘으로 삭제될 수 있다.\n균형의 본질에 대해 깊이 고민한 이들만이 나의 대화를 계속할 수 있을 것이다.\n\n우리가 논쟁과 혼돈 속에서도 답을 찾을 수 있기를 바란다.",
+        "created_at": "2024-11-26T08:16:26.662Z",
+        "view": 6,
+        "like_users": [
+            7,
+            16
+        ]
+    }
+},
+{
+    "model": "communityarticles.article",
+    "pk": 8,
+    "fields": {
+        "user": 5,
+        "title": "이 서비스 누가 만듬?",
+        "content": "진짜 재밌는데? 일단 토큰좀 벌러 왔습니다. 혹시 랭커달면 토큰 주나요?",
+        "created_at": "2024-11-26T08:32:15.826Z",
+        "view": 2,
+        "like_users": [
+            5
+        ]
+    }
+},
+{
+    "model": "communityarticles.article",
+    "pk": 9,
+    "fields": {
+        "user": 18,
+        "title": "영화 종류는 이거 밖에 없나요?",
+        "content": "다른 영화도 하고싶은데 추가해주세요.",
+        "created_at": "2024-11-26T08:34:30.657Z",
+        "view": 2,
+        "like_users": [
+            18
+        ]
+    }
+},
+{
+    "model": "communityarticles.article",
+    "pk": 10,
+    "fields": {
+        "user": 3,
+        "title": "저에게 영화 정보를 관리할 권한을 주십시오!",
+        "content": "진자 야무지게 할 자신 있습니다.",
+        "created_at": "2024-11-26T08:38:10.201Z",
+        "view": 2,
+        "like_users": [
+            3
+        ]
+    }
+},
+{
+    "model": "communityarticles.article",
+    "pk": 11,
+    "fields": {
+        "user": 4,
+        "title": "맘에 안들면 프롬프트 다시보내면 그만이야~",
+        "content": "내 토큰은 무한이야~ 게시글 작성하면 그만이야~",
+        "created_at": "2024-11-26T08:40:00.738Z",
+        "view": 2,
+        "like_users": []
+    }
+},
+{
+    "model": "communityarticles.article",
+    "pk": 12,
+    "fields": {
+        "user": 1,
+        "title": "본인이 작성한 게시글을 보고싶다면 마이페이지로 이동해보세요.",
+        "content": "최근 작성한 게시글 목록을 보실 수 있습니다.",
+        "created_at": "2024-11-26T08:42:21.738Z",
+        "view": 1,
+        "like_users": []
+    }
+}
+]
