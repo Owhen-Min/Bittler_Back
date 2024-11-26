@@ -1,22 +1,31 @@
 from pathlib import Path
 from decouple import config
 import dj_database_url
-
 import os, json
+from django.core.exceptions import ImproperlyConfigured
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-with open(secret) as f:
-    secrets = json.loads(f.read())
+secret = os.path.join(BASE_DIR, 'secret.json')
+
+def load_secrets():
+    try:
+        with open(SECRET_FILE) as f:
+            return json.load(f)
+    except FileNotFoundError:
+        raise ImproperlyConfigured(f"Secret file not found at {SECRET_FILE}")
+    except json.JSONDecodeError:
+        raise ImproperlyConfigured(f"Invalid JSON in secret file at {SECRET_FILE}")
+
+secrets = load_secrets()
 
 def get_secret(keyword, secrets=secrets):
     try:
         return secrets[keyword]
     except KeyError:
-        raise ImproperlyConfigured("No variable : {}".format(keyword))
-
-secret = os.path.join(BASE_DIR, 'secret.json')
+        raise ImproperlyConfigured(f"Secret key '{keyword}' not found in secret.json")
 
 SECRET_KEY = get_secret("DJANGO_SECRET_KEY")
 
