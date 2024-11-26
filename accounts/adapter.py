@@ -9,7 +9,6 @@ class CustomAccountAdapter(DefaultAccountAdapter):
             
             user_field(user, 'nickname', request.data.get('nickname'))
             user_field(user, 'first_name', request.data.get('firstname'))
-            user_field(user, 'is_admin', request.data.get('is_admin'))
             
             if commit:
                 user.save()

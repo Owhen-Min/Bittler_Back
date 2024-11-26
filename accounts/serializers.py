@@ -20,10 +20,8 @@ class CustomRegisterSerializer(RegisterSerializer):
         user = super().save(request)
         nickname = self.data.get('nickname')
         first_name = self.data.get('first_name')
-        is_admin = self.data.get('is_admin')
         user.nickname = nickname
         user.first_name = first_name
-        user.is_admin = is_admin
         user.save()
         return user
 
