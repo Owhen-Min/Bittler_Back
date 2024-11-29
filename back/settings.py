@@ -32,7 +32,12 @@ SECRET_KEY = get_secret("DJANGO_SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['3.25.58.212', '127.0.0.1']
+ALLOWED_HOSTS = [
+    '3.25.58.212',
+    '127.0.0.1',
+    ".ap-northeast-2.compute.amazonaws.com",
+    ".nerogarret.shop",
+]
 
 OPENAI_SECRET_KEY = get_secret('OPENAI_SECRET_KEY')
 
